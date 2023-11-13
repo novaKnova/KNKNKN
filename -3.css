@@ -79,7 +79,7 @@ html {
 
   grid-column-gap: 5rem;
 
-  grid-row-gap: 2.5rem;
+  grid-row-gap: 3.5rem;
 
   align-items: center; 
     }
@@ -161,7 +161,7 @@ html {
 
   border-radius: inherit;
 
-  background: linear-gradient(330deg, var(--MediumOrchid) 0%, var(--primary) 50%, var(--BlueViolet) 100%);
+  background: linear-gradient(330deg, var(--MediumOrchid) 50%, var(--primary) 50%, var(--BlueViolet) 100%);
 
   opacity: 0;
 
@@ -561,7 +561,7 @@ html {
 
 .slider__box {
 
-  width: 100%;
+  width: 50%;
 
   height: 1rem;
 
