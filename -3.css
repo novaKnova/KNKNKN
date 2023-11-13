@@ -161,7 +161,7 @@ html {
 
   border-radius: inherit;
 
-  background: linear-gradient(330deg, var(--MediumOrchid) 50%, var(--primary) 50%, var(--BlueViolet) 100%);
+  background: linear-gradient(330deg, var(--MediumOrchid) 0%, var(--primary) 50%, var(--BlueViolet) 100%);
 
   opacity: 0;
 
@@ -631,7 +631,7 @@ html {
 
   height: 100%;
 
-  width: 50%;
+  width: 100%;
 
   position: absolute;
 
