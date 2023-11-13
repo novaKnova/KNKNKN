@@ -494,7 +494,7 @@ html {
 
 .squarebox__1:hover, .squarebox__2:hover, .squarebox__3:hover {
 
-  color: var(--primary);
+  color: var(--Indigo);
 
 }
 
@@ -631,7 +631,7 @@ html {
 
   height: 100%;
 
-  width: 100%;
+  width: 50%;
 
   position: absolute;
 
@@ -643,7 +643,7 @@ html {
 
   background: var(--SlateBlue);
 
-  background: linear-gradient(-1deg, var(--primary-dark) 0%, var(--primary) 50%, var(--primary-light) 100%);
+  background: linear-gradient(-1deg, var(--SlateBlue) 0%, var(--primary) 50%, var(--blueLight-2) 100%);
 
 }
 
